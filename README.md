@@ -5,6 +5,7 @@ Desktop example:
 ![desktop](images/desktop.png)
 
 # Colck
+---
 Four variantions of a modern clock:
 
 •Simple
@@ -24,6 +25,7 @@ Four variantions of a modern clock:
 ![colck_secs_week](images/colck_secs_week.png)
 
 # Simplecisum
+
 These include a clock with 2 variations, a music player with 2 variations and a dock/launcher.
 
 Notice that in the layout (Rainmeter.ini) I've used the monstercat-visualizer for my desktop, but I decided not to bundle it in the WCBB (WinCanBeBeautiful) Suite.
