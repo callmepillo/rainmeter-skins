@@ -26,7 +26,7 @@ Four variantions of a modern clock:
 # Simplecisum
 Two variations of a music player based on WebNowPlaying (Dosent include the monstercat-visualizer, it can be picked up from the link below):
 
-•Simple
+## Simple
 
 →Playing
 
@@ -36,7 +36,7 @@ Two variations of a music player based on WebNowPlaying (Dosent include the mons
 
 ![simplecisum_paused](images/simplecisum_paused.png)
 
-•Resource Intensive
+## Resource Intensive
 
 →Playing
 
