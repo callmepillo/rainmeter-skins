@@ -7,11 +7,15 @@ Desktop example:
 # Colck
 Four variantions of a modern clock:
 -Simple
+
 ![colck_simple](images/colck_simple.png)
+
 -With seconds
 ![colck_secs](images/colck_secs.png)
+
 -With week day
 ![colck_week](images/colck_week.png)
+
 -With week day & seconds
 ![colck_secs_week](images/colck_secs_week.png)
 
