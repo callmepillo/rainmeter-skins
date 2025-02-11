@@ -3,7 +3,8 @@ Several skins that I've created or modified to my liking.
 
 Some of the skins may be plug-and-play, but others may require some simple tinkerings with the .ini file.
 
-Desktop example:
+•Desktop example:
+
 ![desktop](images/desktop.png)
 
 # Colck
@@ -56,11 +57,11 @@ Three variations of a simple icon skin (modified from another):
 
 ![icons](images/icons.png)
 
-•Taskbar
+•Taskbar - NEEDS TO BE ADDED
 
 ![icons_taskbar](images/icons_taskbar.png)
 
-•Dock
+•Dock - NEEDS TO BE ADDED
 
 ![icons_dock](images/icons_dock.png)
 
