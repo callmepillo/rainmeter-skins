@@ -1,6 +1,9 @@
 # rainmeter-skins
 Several skins that I've created or modified to my liking.
 
+Desktop example:
+![desktop](images/desktop.png)
+
 These include a clock with 2 variations, a music player with 2 variations and a dock/launcher.
 
 Notice that in the layout (Rainmeter.ini) I've used the monstercat-visualizer for my desktop, but I decided not to bundle it in the WCBB (WinCanBeBeautiful) Suite.
