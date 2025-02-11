@@ -1,5 +1,5 @@
 # wcbb-suite
-Several skins that I've created or modified to my liking.
+A suite of skins that I've created or modified to my liking.
 
 Some of the skins may be plug-and-play, but others may require some simple tinkerings with the .ini file.
 
