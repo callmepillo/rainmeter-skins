@@ -40,11 +40,11 @@ Two variations of a music player based on WebNowPlaying (Dosent include the mons
 
 →Playing
 
-![simplecisum_playing_resource_intensive](images/simplecisum_playing_resource_intensive.png)
+![simplecisum_playing_resource_intensive](images/simplecisum_paused_resource_intensive.png)
 
 →Paused
 
-![simplecisum_paused_resource_intensive](images/simplecisum_paused_resource_intensive.png)
+![simplecisum_paused_resource_intensive](images/simplecisum_playing_resource_intensive.png)
 
 # Icons
 Three variations of a simple icon skin (modified from another):
