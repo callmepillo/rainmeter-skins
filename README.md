@@ -37,6 +37,7 @@ Two variations of a music player based on WebNowPlaying (Dosent include the mons
 ![simplecisum_paused](images/simplecisum_paused.png)
 
 ## Resource Intensive
+This one has a hover effect over the album cover for play/pause:
 
 →Playing
 
