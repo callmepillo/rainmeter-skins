@@ -5,7 +5,6 @@ Desktop example:
 ![desktop](images/desktop.png)
 
 # Colck
----
 Four variantions of a modern clock:
 
 •Simple
@@ -25,8 +24,47 @@ Four variantions of a modern clock:
 ![colck_secs_week](images/colck_secs_week.png)
 
 # Simplecisum
+Two variations of a music player based on WebNowPlaying (Dosent include the monstercat-visualizer, it can be picked up from the link below):
 
-These include a clock with 2 variations, a music player with 2 variations and a dock/launcher.
+•Simple
+
+→Playing
+
+![simplecisum_playing](images/simplecisum_playing.png)
+
+→Paused
+
+![simplecisum_paused](images/simplecisum_paused.png)
+
+•Resource Intensive
+
+→Playing
+
+![simplecisum_playing_resource_intensive](images/simplecisum_playing_resource_intensive.png)
+
+→Paused
+
+![simplecisum_paused_resource_intensive](images/simplecisum_paused_resource_intensive.png)
+
+# Icons
+Three variations of a simple icon skin (modified from another):
+
+•Simple
+
+![icons](images/icons.png)
+
+•Taskbar
+
+![icons_taskbar](images/icons_taskbar.png)
+
+•Dock
+
+![icons_dock](images/icons_dock.png)
+
+# Veter (WIP)
+A weather widget based on open-meteo:
+
+![veter](images/veter.png)
 
 Notice that in the layout (Rainmeter.ini) I've used the monstercat-visualizer for my desktop, but I decided not to bundle it in the WCBB (WinCanBeBeautiful) Suite.
 
